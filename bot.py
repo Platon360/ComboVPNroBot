@@ -9,7 +9,7 @@ from aiogram.types import (
     PreCheckoutQuery,
 )
 
-TOKEN = os.getenv("8874536741:AAGZPETk6ZyZ-eyUJyicPob9pA06zK_gt5Q")
+TOKEN = os.getenv("BOT_TOKEN")
 
 PRODUCTS = {
     "trial":    ("на 1 неделю (пробный период)", 30),
